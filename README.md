@@ -1,2 +1,3 @@
 # FirstProject
-Personal Project 
+This is my first project 
+Author- Akanksha Juneja 
